@@ -1,0 +1,3 @@
+rootProject.name='MyMVPArmProject'
+include ':app', ':arms'
+include ':wanandroid'
